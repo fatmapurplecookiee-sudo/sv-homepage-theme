@@ -1,0 +1,77 @@
+{
+  "clients": ["RISE AUTHORITY", "1SEO", "Boostability", "ZenMedia"],
+
+  "services": [
+    { "icon": "layers", "title": "Managed Campaigns",     "desc": "Complete hands-off SEO management. We handle strategy, execution, and reporting while you maintain the client relationship.", "link": "#managed-campaigns", "wide": true  },
+    { "icon": "link",   "title": "Link Building",          "desc": "High-DR backlinks from real corporate blogs and news sites. No PBNs.",                                                         "link": "#link-building",    "wide": false },
+    { "icon": "pen",    "title": "Content Engine",         "desc": "SEO-optimized articles written by subject matter experts, not just AI.",                                                        "link": "#content-engine",   "wide": false },
+    { "icon": "map",    "title": "Local Presence",         "desc": "GMB optimization, local citations, and review management to capture local intent.",                                              "link": "#local-presence",   "wide": false },
+    { "icon": "search", "title": "Technical Audits",       "desc": "Deep dive crawling to identify and fix indexation bloat, canonical issues, and core web vital failures.",                       "link": "#technical-audits", "wide": false },
+    { "icon": "tag",    "title": "White-Label Dashboards", "desc": "Give your clients a live view of their growth with your own branded portal.",                                                   "link": "#white-label",      "wide": false }
+  ],
+
+  "stats": [
+    { "value": "120k+", "label": "Links Delivered"   },
+    { "value": "98%",   "label": "Client Retention"  },
+    { "value": "3.2M",  "label": "Keywords Improved" }
+  ],
+
+  "testimonials": [
+    {
+      "stars": 5,
+      "quote": "Stan Ventures completely transformed our fulfillment process. We've scaled from 10 to 50 clients without hiring a single in-house SEO specialist.",
+      "author": "Derek Jordon",
+      "role": "Agency Owner, FocusRank",
+      "initials": "DJ"
+    },
+    {
+      "stars": 5,
+      "quote": "The transparency and reporting are unmatched. My clients are happy, retention is up, and I can focus on sales while they handle the heavy lifting.",
+      "author": "David Chen",
+      "role": "CEO, RankBoost",
+      "initials": "DC"
+    }
+  ],
+
+  "case_studies": [
+    {
+      "tag":   "E-COMMERCE",
+      "img":   "case-ecommerce.png",
+      "title": "E-commerce Scale",
+      "sub":   "From $20k to $2M/month Revenue",
+      "pct":   "240%",
+      "big":   true
+    },
+    {
+      "tag":   "SAAS",
+      "img":   "case-saas.png",
+      "title": "SaaS Domination",
+      "sub":   "Ranking #1 for high-intent keywords",
+      "pct":   "850%",
+      "big":   false
+    },
+    {
+      "tag":   "ENTERPRISE",
+      "img":   "case-enterprise.png",
+      "title": "Local Enterprise",
+      "sub":   "Launching footprint across 12 cities",
+      "pct":   "125%",
+      "big":   false
+    }
+  ],
+
+  "comparison": {
+    "columns": [
+      { "key": "feature", "label": ""              },
+      { "key": "stan",    "label": "Stan Ventures" },
+      { "key": "others",  "label": "Others"        }
+    ],
+    "rows": [
+      { "feature": "White Label Dashboard",     "stan": true, "others": false },
+      { "feature": "Dedicated Account Manager", "stan": true, "others": false },
+      { "feature": "No Contract Lock-in",       "stan": true, "others": false },
+      { "feature": "Native English Writers",    "stan": true, "others": false },
+      { "feature": "Links Guarantee Policy",    "stan": true, "others": false }
+    ]
+  }
+}
